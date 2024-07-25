@@ -2,7 +2,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jw1211)](https://solved.ac/jw1211)
 
 # Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wodnj5&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wodnj5&layout=donut&theme=dark)
 
 ![wodnj5's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodnj5&show_icons=true&theme=radical)
 

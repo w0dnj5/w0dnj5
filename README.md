@@ -3,7 +3,6 @@
 
 # Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wodnj5&layout=donut&theme=dark)
-
 ![wodnj5's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodnj5&show_icons=true&theme=radical)
 
 # Framework

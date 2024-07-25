@@ -6,7 +6,7 @@
 
 # Study
 
-<img src="https://img.shields.io/badge/https://icons8.kr/icon/13679/java?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/spring?style=for-the-badge&logo=react&logoColor=6DB33F" />
 
 <!--
 **wodnj5/wodnj5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

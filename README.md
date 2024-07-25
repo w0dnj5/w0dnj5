@@ -2,9 +2,10 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jw1211)](https://solved.ac/jw1211)
 
 # Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wodnj5&layout=donut&theme=dark)
-![wodnj5's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodnj5&show_icons=true&theme=radical)
-
+<div align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wodnj5&layout=donut&theme=dark)
+  ![wodnj5's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodnj5&show_icons=true&theme=radical)
+</div>
 # Framework
 <img src="https://img.shields.io/badge/spring-20232a.svg?style=for-the-badge&logo=spring&logoColor=6DB33F" /> <img src="https://img.shields.io/badge/springboot-20232a.svg?style=for-the-badge&logo=springboot&logoColor=6DB33F" /> <img src="https://img.shields.io/badge/junit5-20232a.svg?style=for-the-badge&logo=junit5&logoColor=25A162" /> 
 

@@ -3,7 +3,7 @@
 
 # Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wodnj5&layout=compact&show_icons=true&theme=dark&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=6DB33F&count_private=true&exclude_repo=Face-Transfer-Application" width=42% /><img src="https://github-readme-stats.vercel.app/api?username=wodnj5&show_icons=true&theme=dark&hide_border=true&bg_color=20232a&icon_color=6DB33F&text_color=fff&title_color=6DB33F&count_private=true" width=46.9% />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w0dnj5&layout=compact&show_icons=true&theme=dark&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=6DB33F&count_private=true&exclude_repo=Face-Transfer-Application" width=42% /><img src="https://github-readme-stats.vercel.app/api?username=w0dnj5&show_icons=true&theme=dark&hide_border=true&bg_color=20232a&icon_color=6DB33F&text_color=fff&title_color=6DB33F&count_private=true" width=46.9% />
 
 <!--
 **wodnj5/wodnj5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-# Solved.ac
+# Solved.ac (Baekjoon)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jw1211)](https://solved.ac/jw1211)
 
 # Stats
